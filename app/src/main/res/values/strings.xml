@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Random Hex Color</string>
-    <string name="hello_text">Hello from %1$s</string>
+    <string name="hello_text">Hex value is %1$s</string>
 </resources>
